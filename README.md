@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Raj</h1>
 <h3 align="center">Learning DevOps</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishrajsrivastava&label=Profile%20views&color=0e75b6&style=flat" alt="ashishrajsrivastava" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish-raj-wenovate&label=Profile%20views&color=0e75b6&style=flat" alt="ashish-raj-wenovate" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishrajsrivastava" alt="ashishrajsrivastava" /></a> </p>
 
