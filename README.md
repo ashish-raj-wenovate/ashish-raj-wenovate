@@ -38,7 +38,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AzureDevOpsPro?style=social)](https://twitter.com/AzureDevOpsPro)
 
-[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/ashishrajsrivastava)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/ashishrajsrivastava)
 
 
 ---
