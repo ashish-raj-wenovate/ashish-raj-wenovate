@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishrajsrivastava" alt="ashishrajsrivastava" /></a> </p>
 
-- 🔭 I’m currently working on **Microsoft Azure**
+- 🔭 I’m currently working on **Microsoft Azure, Azure DevOps, GitHub, PowerShell **
 
 - 🌱 I’m currently learning **JavaScript, Kubernetes**
 
